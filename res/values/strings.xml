@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GoldenEye</string>
+    <string name="full_app_name">HTTP server exhaustion weapon</string>
+    <string name="label_hostname">Victim</string>
+    <string name="hint_http_addr">http://</string>
+    <string name="label_nr_threads">Threads</string>
+    <string name="hint_attack_threads_count">128</string>
+    <string name="attack_button_label">Fire!</string>
+    <string name="toast_attack_in_progress">Attacking victim</string>
+    <string name="errmsg_invalid_host">Invalid host specified</string>
+    <string name="errmsg_invalid_nr_threads">Please supply a number of threads between 1 and 128</string>
+    <string name="errmsg_cannot_ping_victim">Cannot ping victim address with HEAD request.</string>
+    <string name="label_attack_summary">Attack Summary</string>
+    <string name="label_attack_accounting">Attack Accounting</string>
+    <string name="label_successfull_attacks">Successfull hits:</string>
+    <string name="label_failed_hits">Failed hits:</string>
+    <string name="nr_zero">0</string>
+    <string name="label_stop_attack_btn">Stop Attack</string>
+    <string name="toast_attack_cancelled">Attack Cancelled!</string>
+    <string name="hulk_taunt">Firing laser cannon!</string>
+    <string name="label_nr_connections">Connections in same Keep-Alive</string>
+    <string name="hint_attack_conn_count">100</string>
+    <string name="toast_attack_finished">Attack Finished!</string>
+    <string name="label_img_attack_image">Attack Image</string>
+    <string name="toast_locating_target">Locating target&#8230;</string>
+    <string name="toast_target_acquired">Target acquired. Charging cannons&#8230;</string>
+    <string name="label_nr_sockets">Concurrent Sockets per Thread</string>
+    <string name="hint_attack_sockets_count">30</string>
+
+</resources>
